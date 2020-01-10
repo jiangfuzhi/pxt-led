@@ -1,6 +1,6 @@
 // tests go here; this will not be compiled when this package is used as a library
 
-//% color="#AA278D" block = "LED"
+//% color="#AA278D" block = "Light"
 namespace led {
 
     //% block
