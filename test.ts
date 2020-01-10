@@ -1,6 +1,6 @@
 // tests go here; this will not be compiled when this package is used as a library
 
-//% color="#AA278D" block = "Light"
+//% weight=10 color=#9F79EE icon="\uf108" block="Light"
 namespace led {
 
     //% block
