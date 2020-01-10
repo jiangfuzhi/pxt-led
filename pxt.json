@@ -1,5 +1,5 @@
 {
-    "name": "pxt-led",
+    "name": "led",
     "version": "0.0.0",
     "description": "",
     "dependencies": {
@@ -14,5 +14,6 @@
         "test.ts"
     ],
     "public": false,
-    "additionalFilePaths": []
+    "preferredEditor": "tsprj",
+    "installedVersion": "workspace:3ae20df8-fa82-4141-11c9-7a560377caad"
 }
