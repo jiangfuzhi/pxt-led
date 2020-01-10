@@ -1,5 +1,5 @@
 {
-    "name": "Light",
+    "name": "led",
     "version": "0.0.2",
     "description": "",
     "dependencies": {
